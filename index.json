@@ -14,7 +14,7 @@
     },
     {
       "name": "Bhagavatam_Simhachala_Shastry-part-1",
-      "usedBytes": 0,
+      "usedBytes": 223157132,
       "full": false
     }
   ],
@@ -89,8 +89,22 @@
       "addedAt": "2026-11-25T13:46:53.461Z",
       "updatedAt": "2026-11-25T13:46:53.461Z",
       "manifest": "manifests/f3d4986f-e883-4cf7-8342-c79cf781838b.json"
+    },
+    {
+      "id": "632b9007-9532-4f29-b4fa-f02796d492c1",
+      "kind": "audio",
+      "title": "6_బ్రహ్మశ్రీ ముప్పవరపు సింహాచల శాస్త్రి గారిచే శ్రీమద్ భాగవత ప్రవచనము ｜｜ DAY 06 ｜ Darshanam Tv",
+      "artist": "Unknown",
+      "album": "Unknown",
+      "duration": 11081,
+      "mime": "audio/mpeg",
+      "bytes": 223157132,
+      "sha256": "5f8b1e31e1f2c534fc306899e66be4449fb7d9540fd2fdeafa72d1ca51f4050e",
+      "addedAt": "2026-11-25T13:46:53.778Z",
+      "updatedAt": "2026-11-25T13:46:53.778Z",
+      "manifest": "manifests/632b9007-9532-4f29-b4fa-f02796d492c1.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T14:18:43.870Z"
+  "updatedAt": "2026-11-25T14:21:46.249Z"
 }
