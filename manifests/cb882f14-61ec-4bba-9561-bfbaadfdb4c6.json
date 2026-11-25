@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "trackId": "cb882f14-61ec-4bba-9561-bfbaadfdb4c6",
+  "media": {
+    "name": "4_బ్రహ్మశ్రీ ముప్పవరపు సింహాచల శాస్త్రి గారిచే శ్రీమద్ భాగవత ప్రవచనము ｜｜ DAY 04 ｜ Darshanam Tv.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 225964820,
+    "sha256": "e9030d1c92d6438509ebbd43066985c2414f89ee156913d7cc041997dc65543a",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/cb/cb882f14-61ec-4bba-9561-bfbaadfdb4c6/media.0",
+        "bytes": 25690112,
+        "sha": "feef64d091a1ae1a05b1c22b20179c6d4ffd4724"
+      },
+      {
+        "n": 1,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/cb/cb882f14-61ec-4bba-9561-bfbaadfdb4c6/media.1",
+        "bytes": 25690112,
+        "sha": "2bc853a7dfc00f0877ccd984e92834d052dc215c"
+      },
+      {
+        "n": 2,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/cb/cb882f14-61ec-4bba-9561-bfbaadfdb4c6/media.2",
+        "bytes": 25690112,
+        "sha": "f5ee6c308e50bdb866d6d81cac441b2374591be7"
+      },
+      {
+        "n": 3,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/cb/cb882f14-61ec-4bba-9561-bfbaadfdb4c6/media.3",
+        "bytes": 25690112,
+        "sha": "49b40a3eaa9a36eec6569a96667fa4672d6ab393"
+      },
+      {
+        "n": 4,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/cb/cb882f14-61ec-4bba-9561-bfbaadfdb4c6/media.4",
+        "bytes": 25690112,
+        "sha": "5bf97a900e1ed4ca297234538295787d1d858436"
+      },
+      {
+        "n": 5,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/cb/cb882f14-61ec-4bba-9561-bfbaadfdb4c6/media.5",
+        "bytes": 25690112,
+        "sha": "739df29554e00032114d0340d12c9c40efc59143"
+      },
+      {
+        "n": 6,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/cb/cb882f14-61ec-4bba-9561-bfbaadfdb4c6/media.6",
+        "bytes": 25690112,
+        "sha": "d6bf75c966942cd6b37085c1423497c317f9de9a"
+      },
+      {
+        "n": 7,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/cb/cb882f14-61ec-4bba-9561-bfbaadfdb4c6/media.7",
+        "bytes": 25690112,
+        "sha": "ceafdf7d663b74c1e7044f97bc655f35f3e924bf"
+      },
+      {
+        "n": 8,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/cb/cb882f14-61ec-4bba-9561-bfbaadfdb4c6/media.8",
+        "bytes": 20443924,
+        "sha": "bf77b6119c656bfa77e68101836721793fed2950"
+      }
+    ]
+  }
+}
