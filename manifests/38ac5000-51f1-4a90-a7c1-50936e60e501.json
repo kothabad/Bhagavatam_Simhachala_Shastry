@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "trackId": "38ac5000-51f1-4a90-a7c1-50936e60e501",
+  "media": {
+    "name": "3_బ్రహ్మశ్రీ ముప్పవరపు సింహాచల శాస్త్రి గారిచే శ్రీమద్ భాగవత ప్రవచనము ｜｜ DAY 03 ｜ Darshanam Tv.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 128556572,
+    "sha256": "c974d63dbc0ce29762997db07612d995d7e9f0b6acf618b819b15b052865dd49",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/38/38ac5000-51f1-4a90-a7c1-50936e60e501/media.0",
+        "bytes": 25690112,
+        "sha": "6b9ab46850cad9261c77829984dbcb32602c5f94"
+      },
+      {
+        "n": 1,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/38/38ac5000-51f1-4a90-a7c1-50936e60e501/media.1",
+        "bytes": 25690112,
+        "sha": "9a64ef2f1c4cd020747220accd3317a27fae778c"
+      },
+      {
+        "n": 2,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/38/38ac5000-51f1-4a90-a7c1-50936e60e501/media.2",
+        "bytes": 25690112,
+        "sha": "600206f4a0a42d7812a57a9c43c43d70b413b6c2"
+      },
+      {
+        "n": 3,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/38/38ac5000-51f1-4a90-a7c1-50936e60e501/media.3",
+        "bytes": 25690112,
+        "sha": "52143a7e11f5b47329afe6ad722d1eb0157935bd"
+      },
+      {
+        "n": 4,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/38/38ac5000-51f1-4a90-a7c1-50936e60e501/media.4",
+        "bytes": 25690112,
+        "sha": "e4987797908695ce940389cf7f64b8d6efaad669"
+      },
+      {
+        "n": 5,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/38/38ac5000-51f1-4a90-a7c1-50936e60e501/media.5",
+        "bytes": 106012,
+        "sha": "516302a13499b3c971a3cfbc479f64b44c13aa38"
+      }
+    ]
+  }
+}

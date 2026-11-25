@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "Bhagavatam_Simhachala_Shastry",
-      "usedBytes": 317438152,
+      "usedBytes": 445994724,
       "full": false
     }
   ],
@@ -42,8 +42,22 @@
       "addedAt": "2026-11-25T13:46:51.778Z",
       "updatedAt": "2026-11-25T13:46:51.778Z",
       "manifest": "manifests/d5afa990-05c2-43fb-b320-4557d11f7f6d.json"
+    },
+    {
+      "id": "38ac5000-51f1-4a90-a7c1-50936e60e501",
+      "kind": "audio",
+      "title": "3_బ్రహ్మశ్రీ ముప్పవరపు సింహాచల శాస్త్రి గారిచే శ్రీమద్ భాగవత ప్రవచనము ｜｜ DAY 03 ｜ Darshanam Tv",
+      "artist": "Unknown",
+      "album": "Unknown",
+      "duration": 6606,
+      "mime": "audio/mpeg",
+      "bytes": 128556572,
+      "sha256": "c974d63dbc0ce29762997db07612d995d7e9f0b6acf618b819b15b052865dd49",
+      "addedAt": "2026-11-25T13:46:52.356Z",
+      "updatedAt": "2026-11-25T13:46:52.356Z",
+      "manifest": "manifests/38ac5000-51f1-4a90-a7c1-50936e60e501.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:52:18.194Z"
+  "updatedAt": "2026-11-25T13:54:12.369Z"
 }
