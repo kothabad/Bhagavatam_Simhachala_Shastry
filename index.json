@@ -9,12 +9,27 @@
   "repos": [
     {
       "name": "Bhagavatam_Simhachala_Shastry",
-      "usedBytes": 0,
+      "usedBytes": 164274068,
       "full": false
     }
   ],
   "currentRepo": "Bhagavatam_Simhachala_Shastry",
-  "tracks": [],
+  "tracks": [
+    {
+      "id": "be1775eb-4f57-4c80-bb72-4c279ebd8b50",
+      "kind": "audio",
+      "title": "1_బ్రహ్మశ్రీ ముప్పవరపు సింహాచల శాస్త్రి గారిచే శ్రీమద్ భాగవత ప్రవచనము ｜｜ DAY 01 ｜ Darshanam Tv",
+      "artist": "Unknown",
+      "album": "Unknown",
+      "duration": 8594,
+      "mime": "audio/mpeg",
+      "bytes": 164274068,
+      "sha256": "a6e19ffd609a94238066fa1489d294a0acc3276a52aaebccf890c4e64b5587c3",
+      "addedAt": "2026-11-25T13:46:51.560Z",
+      "updatedAt": "2026-11-25T13:46:51.560Z",
+      "manifest": "manifests/be1775eb-4f57-4c80-bb72-4c279ebd8b50.json"
+    }
+  ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:47:23.480Z"
+  "updatedAt": "2026-11-25T13:50:14.798Z"
 }

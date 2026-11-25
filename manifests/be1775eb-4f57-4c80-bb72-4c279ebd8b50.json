@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "trackId": "be1775eb-4f57-4c80-bb72-4c279ebd8b50",
+  "media": {
+    "name": "1_బ్రహ్మశ్రీ ముప్పవరపు సింహాచల శాస్త్రి గారిచే శ్రీమద్ భాగవత ప్రవచనము ｜｜ DAY 01 ｜ Darshanam Tv.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 164274068,
+    "sha256": "a6e19ffd609a94238066fa1489d294a0acc3276a52aaebccf890c4e64b5587c3",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/be/be1775eb-4f57-4c80-bb72-4c279ebd8b50/media.0",
+        "bytes": 25690112,
+        "sha": "c0dadb4f0b10e64ea2db78cd7e0e4605a0dc0314"
+      },
+      {
+        "n": 1,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/be/be1775eb-4f57-4c80-bb72-4c279ebd8b50/media.1",
+        "bytes": 25690112,
+        "sha": "5afe8dd6d4afc61fca840a0fb974240c596e4bb8"
+      },
+      {
+        "n": 2,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/be/be1775eb-4f57-4c80-bb72-4c279ebd8b50/media.2",
+        "bytes": 25690112,
+        "sha": "4b6d793cc1be493bedebde61fa539d0bcf95d6f4"
+      },
+      {
+        "n": 3,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/be/be1775eb-4f57-4c80-bb72-4c279ebd8b50/media.3",
+        "bytes": 25690112,
+        "sha": "eaeb3b47a5a76d72476a004992bd8a886cfae6cf"
+      },
+      {
+        "n": 4,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/be/be1775eb-4f57-4c80-bb72-4c279ebd8b50/media.4",
+        "bytes": 25690112,
+        "sha": "21ee7b98de7ae3fbc07d7fdfdb925410eb845714"
+      },
+      {
+        "n": 5,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/be/be1775eb-4f57-4c80-bb72-4c279ebd8b50/media.5",
+        "bytes": 25690112,
+        "sha": "13c411f704b18be402c71c24de6f4f61a72d3d47"
+      },
+      {
+        "n": 6,
+        "repo": "Bhagavatam_Simhachala_Shastry",
+        "path": "data/be/be1775eb-4f57-4c80-bb72-4c279ebd8b50/media.6",
+        "bytes": 10133396,
+        "sha": "27b4bca4c06758821cc9e3a942b26862e3f40706"
+      }
+    ]
+  }
+}
